@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Enactus",
+  title: "Enactus CU | Empowering Communities Through Entrepreneurial Action",
   description: "Empowering Communities Through Entrepreneurial Action",
   alternates: {
     canonical: {
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Enactus ",
+    title: "Enactus CU | Empowering Communities Through Entrepreneurial Action",
     description: "Empowering Communities Through Entrepreneurial Action",
     images: [
       {
